@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+  - "*.qmd"
+  - "*.Rmd"
+  - "!backlog/"
+  
+  
+  
+website:
+  title: "Studium Generale"
+
+      
+      
+format:
+  html:
+    theme: materia
+    number-sections: false
+    grid:
+      sidebar-width: 350px
+execute: 
+  echo: false
+  warning: false
+  message: false

@@ -1,0 +1,85 @@
+# Wissenschaftliche Poster
+
+## Grundlagen
+
+Wissenschaftliche Poster dienen zur Kommunikation von Fakten, Projekten, Ergebnissen, Ideen oder Gedankengängen. Auf wissenschaflichen Konferenzen gibt es meistens mehrere Sessions mit thematisch gebündelten Postern.
+
+
+![Postersession der Iloek Konferenz 2024](assets/postersession.jpg)
+
+
+Die Inhalte des wissenschaftlichen Posters sollten ohne weitere Erklärungen - also nur durch Abbildungen und Text - weitestgehend verständlich sein. In der Posterpräsentation sollten dann die Hauptaspekte kommuniziert werden sowie Details geklärt und Fragen beantwortet werden.
+
+## Bestandteile eines Posters
+
+::: column-margin
+![Beispielschema eines Posters](assets/poster_outline.png)
+:::
+
+> Titel
+
+Aussagekräftig, Gerne Spoilern!
+
+> Autor\*innen
+
+Wird erstaunlich oft vergessen
+
+> Motivation und Relevanz Fragestellung / Hypothese / Zielsetzung
+
+Kurz und knapp: Worum geht's und warum ist das cool?
+
+> Daten & Methoden Ergebnisse
+
+Der Hauptteil des Posters bekommt logischerweise am meisten Platz. So wenig Texts wie möglich, so viel wie nötig. Grafiken müssen ansprechend gestaltet sein - sie sind der Blickfänger des Posters!
+
+> Einordnung / Diskussion / Fazit
+
+Kurz und knapp: Was haben wir gelernt?
+
+> Literaturverzeichnis
+
+Zitiert wird nur, was absolut nötig ist (z.B. eine Standardmethode o.ä.). Normalerweise nicht mehr als 5 Referenzen.
+
+## Technische Daten
+
+Posterformat: **A0** (841 x 1189 mm)
+
+Hoch- oder Querformat ist Geschmacksache!
+
+### Schriftgrößen
+
+-   Titel: \~ 80pt
+-   Überschrift: \~ 40pt
+-   Text: \~ 24 pt
+-   Bildunterschrift: \~ 20 pt
+
+### Software
+
+#### Präsentationen
+
+PowerPoint / Impress / Google Slides etc.
+
+Die Foliengröße auf A0 einstellen.
+
+#### Vektorgrafik
+
+Inkscape / Illustrater etc.
+
+## Beispiele
+
+
+
+### So besser nicht:
+
+![So nicht.](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAxrzqkWi_q-wWBUNTTKQw9d7mjZi6Rs61sn4Pm8Njv1GHv6jrqQQAFVM5i1yfNWc1WWulkfyQaV0P08heuVjwkJfPwAwElS0550gbBKWA6MSA8fzaNYQx55Ltf04gYIMlowc3kokL8HY9/s1600/breast_cancer_critique.png)
+
+
+### Eher so:
+
+![Schon besser.](https://fourwaves.com/media/q5eow3jd/poster-example-4-mouhanad-babi.png)
+
+## Weiterführende Links
+
+Designtipps und Inhalte präsentieren [fourwaves.com: How to make a successful scientific poster](https://fourwaves.com/blog/how-to-make-a-scientific-poster/)
+
+[Vorlagen zur Inspiration](https://www.posternerd.com/sciposters-templates)
