@@ -4,7 +4,7 @@
     "href": "poster.html",
     "title": "Wissenschaftliche Poster",
     "section": "",
-    "text": "Wissenschaftliche Poster dienen zur Kommunikation von Fakten, Projekten, Ergebnissen, Ideen oder Gedankengängen. Auf wissenschaflichen Konferenzen gibt es meistens mehrere Sessions mit thematisch gebündelten Postern.\n\n\n\nPostersession der Iloek Konferenz 2024\n\n\nDie Inhalte des wissenschaftlichen Posters sollten ohne weitere Erklärungen - also nur durch Abbildungen und Text - weitestgehend verständlich sein. In der Posterpräsentation sollten dann die Hauptaspekte kommuniziert werden sowie Details geklärt und Fragen beantwortet werden.\n\n\n\n\n\n\n\n\nBeispielschema eines Posters\n\n\n\nTitel\n\nAussagekräftig, Gerne Spoilern!\n\nAutor*innen\n\nWird erstaunlich oft vergessen\n\nMotivation und Relevanz Fragestellung / Hypothese / Zielsetzung\n\nKurz und knapp: Worum geht’s und warum ist das cool?\n\nDaten & Methoden Ergebnisse\n\nDer Hauptteil des Posters bekommt logischerweise am meisten Platz. So wenig Texts wie möglich, so viel wie nötig. Grafiken müssen ansprechend gestaltet sein - sie sind der Blickfänger des Posters!\n\nEinordnung / Diskussion / Fazit\n\nKurz und knapp: Was haben wir gelernt?\n\nLiteraturverzeichnis\n\nZitiert wird nur, was absolut nötig ist (z.B. eine Standardmethode o.ä.). Normalerweise nicht mehr als 5 Referenzen.\n\n\n\nPosterformat: A0 (841 x 1189 mm)\nHoch- oder Querformat ist Geschmacksache!\n\n\n\nTitel: ~ 80pt\nÜberschrift: ~ 40pt\nText: ~ 24 pt\nBildunterschrift: ~ 20 pt\n\n\n\n\n\n\nPowerPoint / Impress / Google Slides etc.\nDie Foliengröße auf A0 einstellen.\n\n\n\nInkscape / Illustrater etc.\n\n\n\n\n\n\n\n\n\n\nSo nicht.\n\n\n\n\n\n\n\n\nSchon besser.\n\n\n\n\n\n\nDesigntipps und Inhalte präsentieren fourwaves.com: How to make a successful scientific poster\nVorlagen zur Inspiration"
+    "text": "Wissenschaftliche Poster dienen zur Kommunikation von Fakten, Projekten, Ergebnissen, Ideen oder Gedankengängen. Auf wissenschaflichen Konferenzen gibt es meistens mehrere Sessions mit thematisch gebündelten Postern.\n\n\n\nPostersession der Iloek Konferenz 2024\n\n\nDie Inhalte des wissenschaftlichen Posters sollten ohne weitere Erklärungen - also nur durch Abbildungen und Text - weitestgehend verständlich sein. In der Posterpräsentation sollten dann die Hauptaspekte kommuniziert werden sowie Details geklärt und Fragen beantwortet werden."
   },
   {
     "objectID": "poster.html#grundlagen",
@@ -17,28 +17,35 @@
     "objectID": "poster.html#bestandteile-eines-posters",
     "href": "poster.html#bestandteile-eines-posters",
     "title": "Wissenschaftliche Poster",
-    "section": "",
-    "text": "Beispielschema eines Posters\n\n\n\nTitel\n\nAussagekräftig, Gerne Spoilern!\n\nAutor*innen\n\nWird erstaunlich oft vergessen\n\nMotivation und Relevanz Fragestellung / Hypothese / Zielsetzung\n\nKurz und knapp: Worum geht’s und warum ist das cool?\n\nDaten & Methoden Ergebnisse\n\nDer Hauptteil des Posters bekommt logischerweise am meisten Platz. So wenig Texts wie möglich, so viel wie nötig. Grafiken müssen ansprechend gestaltet sein - sie sind der Blickfänger des Posters!\n\nEinordnung / Diskussion / Fazit\n\nKurz und knapp: Was haben wir gelernt?\n\nLiteraturverzeichnis\n\nZitiert wird nur, was absolut nötig ist (z.B. eine Standardmethode o.ä.). Normalerweise nicht mehr als 5 Referenzen."
+    "section": "Bestandteile eines Posters",
+    "text": "Bestandteile eines Posters\n\n\n\n\n\nBeispielschema eines Posters\n\n\n\nTitel\n\nAussagekräftig, Gerne Spoilern!\n\nAutor*innen\n\nWird erstaunlich oft vergessen\n\nMotivation und Relevanz Fragestellung / Hypothese / Zielsetzung\n\nKurz und knapp: Worum geht’s und warum ist das cool?\n\nDaten & Methoden Ergebnisse\n\n\nHauptteil des Posters bekommt logischerweise am meisten Platz\nSo wenig Text wie möglich, so viel wie nötig.\nGrafiken müssen ansprechend gestaltet sein - sie sind der Blickfänger des Posters!\n\n\nEinordnung / Diskussion / Fazit\n\nKurz und knapp: Was haben wir gelernt?\n\nLiteraturverzeichnis\n\nZitiert wird nur, was absolut nötig ist (z.B. eine Standardmethode o.ä.). Normalerweise nicht mehr als 5 Referenzen."
   },
   {
-    "objectID": "poster.html#technische-daten",
-    "href": "poster.html#technische-daten",
+    "objectID": "poster.html#layout-schrift",
+    "href": "poster.html#layout-schrift",
     "title": "Wissenschaftliche Poster",
-    "section": "",
-    "text": "Posterformat: A0 (841 x 1189 mm)\nHoch- oder Querformat ist Geschmacksache!\n\n\n\nTitel: ~ 80pt\nÜberschrift: ~ 40pt\nText: ~ 24 pt\nBildunterschrift: ~ 20 pt\n\n\n\n\n\n\nPowerPoint / Impress / Google Slides etc.\nDie Foliengröße auf A0 einstellen.\n\n\n\nInkscape / Illustrater etc."
+    "section": "Layout & Schrift",
+    "text": "Layout & Schrift\n\nFormat: A0 (841 x 1189 mm)\nHoch- oder Querformat ist Geschmacksache!\nWhitespace nicht vernachlässigen, also etwas Platz zwischen den Inhalten\n\n\nSchriftgrößen\n\nTitel: ~ 80pt\nÜberschrift: ~ 40pt\nText: ~ 24 pt\nBildunterschrift: ~ 20 pt"
+  },
+  {
+    "objectID": "poster.html#software",
+    "href": "poster.html#software",
+    "title": "Wissenschaftliche Poster",
+    "section": "Software",
+    "text": "Software\n\nPräsentationssoftware\n\nPowerPoint / Impress / Google Slides etc.\n\n\nIdeal für Einsteiger*innen\nEinfaches Layout durch Drag and Drop\nEine A0 Folie gestalten\nViele Vorlagen verfügbar\n\n\n\nVektorgrafik\n\nInkscape / Illustrater etc.\n\n\nEtwas komplizierter im Layout\nSkaliert dafür besser z.B. keine pixeligen Grafiken.\nRendert in der Regel performanter"
   },
   {
     "objectID": "poster.html#beispiele",
     "href": "poster.html#beispiele",
     "title": "Wissenschaftliche Poster",
-    "section": "",
-    "text": "So nicht.\n\n\n\n\n\n\n\n\nSchon besser."
+    "section": "Beispiele",
+    "text": "Beispiele\n\nSo besser nicht:\n\n\n\nSo nicht.\n\n\n\n\nEher so:\n\n\n\nSchon besser."
   },
   {
     "objectID": "poster.html#weiterführende-links",
     "href": "poster.html#weiterführende-links",
     "title": "Wissenschaftliche Poster",
-    "section": "",
-    "text": "Designtipps und Inhalte präsentieren fourwaves.com: How to make a successful scientific poster\nVorlagen zur Inspiration"
+    "section": "Weiterführende Links",
+    "text": "Weiterführende Links\nDesigntipps und Inhalte präsentieren fourwaves.com: How to make a successful scientific poster\nVorlagen zur Inspiration\nVorlagen der Universität Münster"
   }
 ]

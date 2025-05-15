@@ -1,4 +1,6 @@
-# Wissenschaftliche Poster
+---
+title: "Wissenschaftliche Poster"
+---
 
 ## Grundlagen
 
@@ -30,7 +32,9 @@ Kurz und knapp: Worum geht's und warum ist das cool?
 
 > Daten & Methoden Ergebnisse
 
-Der Hauptteil des Posters bekommt logischerweise am meisten Platz. So wenig Texts wie möglich, so viel wie nötig. Grafiken müssen ansprechend gestaltet sein - sie sind der Blickfänger des Posters!
+- Hauptteil des Posters bekommt logischerweise am meisten Platz
+- So wenig Text wie möglich, so viel wie nötig. 
+- **Grafiken** müssen ansprechend gestaltet sein - sie sind der **Blickfänger des Posters**!
 
 > Einordnung / Diskussion / Fazit
 
@@ -40,11 +44,11 @@ Kurz und knapp: Was haben wir gelernt?
 
 Zitiert wird nur, was absolut nötig ist (z.B. eine Standardmethode o.ä.). Normalerweise nicht mehr als 5 Referenzen.
 
-## Technische Daten
+## Layout & Schrift
 
-Posterformat: **A0** (841 x 1189 mm)
-
-Hoch- oder Querformat ist Geschmacksache!
+- Format: **A0** (841 x 1189 mm)
+- Hoch- oder Querformat ist Geschmacksache!
+- Whitespace nicht vernachlässigen, also etwas Platz zwischen den Inhalten
 
 ### Schriftgrößen
 
@@ -53,17 +57,25 @@ Hoch- oder Querformat ist Geschmacksache!
 -   Text: \~ 24 pt
 -   Bildunterschrift: \~ 20 pt
 
-### Software
+## Software
 
-#### Präsentationen
+### Präsentationssoftware
 
-PowerPoint / Impress / Google Slides etc.
+> PowerPoint / Impress / Google Slides etc.
 
-Die Foliengröße auf A0 einstellen.
+- Ideal für Einsteiger\*innen
+- Einfaches Layout durch Drag and Drop
+- Eine A0 Folie gestalten
+- Viele [Vorlagen](https://www.uni-muenster.de/die-universitaet/mystudy/cd-vorlagen.html){target="_blank"} verfügbar
 
-#### Vektorgrafik
+### Vektorgrafik
 
-Inkscape / Illustrater etc.
+> Inkscape / Illustrater etc.
+
+- Etwas komplizierter im Layout
+- Skaliert dafür besser z.B. keine pixeligen Grafiken.
+- Rendert in der Regel performanter
+
 
 ## Beispiele
 
@@ -80,6 +92,8 @@ Inkscape / Illustrater etc.
 
 ## Weiterführende Links
 
-Designtipps und Inhalte präsentieren [fourwaves.com: How to make a successful scientific poster](https://fourwaves.com/blog/how-to-make-a-scientific-poster/)
+Designtipps und Inhalte präsentieren [fourwaves.com: How to make a successful scientific poster](https://fourwaves.com/blog/how-to-make-a-scientific-poster/){target="_blank"}
 
-[Vorlagen zur Inspiration](https://www.posternerd.com/sciposters-templates)
+[Vorlagen zur Inspiration](https://www.posternerd.com/sciposters-templates){target="_blank"}
+
+[Vorlagen der Universität Münster](https://www.uni-muenster.de/die-universitaet/mystudy/cd-vorlagen.html){target="_blank"}

@@ -19,6 +19,10 @@ format:
     number-sections: false
     grid:
       sidebar-width: 350px
+    css: style.css
+    toc: true
+    toc-location: left
+    
 execute: 
   echo: false
   warning: false
